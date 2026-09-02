@@ -17,5 +17,5 @@
     }
   ],
   "permissions": ["storage", "tabs"],
-  "host_permissions": ["*://*.youtube.com/*", "http://127.0.0.1:8000/*"]
+  "host_permissions": ["*://*.youtube.com/*", "*://learntube-api.production.com/*"]
 }

@@ -33,7 +33,7 @@ export default function ExamPreparationCard({
         <h4 className="font-semibold text-sm text-muted-foreground mb-3 uppercase tracking-wider">Recommended Actions</h4>
         <ul className="space-y-3">
           <li className="flex items-center gap-3 text-sm font-medium">
-            <CheckCircle2 className="w-5 h-5 text-green-500 shrink-0" /> Complete Mock Test #3
+            <CheckCircle2 className="w-5 h-5 text-green-500 shrink-0" /> {`Complete pending mocks`}
           </li>
           <li className="flex items-center gap-3 text-sm font-medium">
             <CheckCircle2 className="w-5 h-5 text-green-500 shrink-0" /> Review Graph Algorithms
